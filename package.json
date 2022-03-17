@@ -26,11 +26,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MithunTechnologies/node-js-application"
+    "url": "https://github.com/rss-apps-projects/nodejs-app-mss.git"
   },
   "keywords": [
     "node",
-    "Mithun Technologies",
+    "Rajas Technologies",
     "express"
   ],
   "author": "Mithun Reddy Lacchannagari",
